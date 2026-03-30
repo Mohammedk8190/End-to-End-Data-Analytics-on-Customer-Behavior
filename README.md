@@ -1,4 +1,5 @@
 📊 **End-to-End Retail Customer Behavior Analytics**
+
 📌 **Project Overview**
 
 This project focuses on analyzing retail customer data to extract meaningful insights and support business decision-making. It demonstrates the complete data analytics lifecycle, from raw data to interactive dashboards.
