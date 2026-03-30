@@ -1,9 +1,9 @@
-📊 End-to-End Retail Customer Behavior Analytics
-📌 Project Overview
+📊 **End-to-End Retail Customer Behavior Analytics**
+📌 **Project Overview**
 
 This project focuses on analyzing retail customer data to extract meaningful insights and support business decision-making. It demonstrates the complete data analytics lifecycle, from raw data to interactive dashboards.
 
-🎯 Objective
+🎯 **Objective**
 
 The main objective of this project is to:
 
@@ -11,11 +11,13 @@ Understand customer purchasing behavior
 Identify top-performing products
 Analyze sales trends over time
 Provide actionable business insights
-🛠️ Tools & Technologies
+
+🛠️ **Tools & Technologies**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 SQL (Data querying & analysis)
 Power BI (Dashboard & visualization)
-🔄 Project Workflow
+
+🔄 **Project Workflow**
 1️⃣ Data Collection
 Imported raw retail dataset
 2️⃣ Data Cleaning & Preprocessing
@@ -32,12 +34,14 @@ Performed aggregations and filtering
 5️⃣ Data Visualization
 Built interactive dashboards in Power BI
 Created charts for better understanding
-📊 Dashboard Features
+
+📊 **Dashboard Features**
 📌 Sales Overview
 📌 Customer Segmentation
 📌 Product Performance
 📌 Time-Based Trends
-📈 Key Insights
+
+📈 **Key Insights**
 Top-performing products contribute significantly to revenue
 Certain customer segments generate higher sales
 Sales show seasonal patterns
