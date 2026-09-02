@@ -1,67 +1,62 @@
-📊 **End-to-End Retail Customer Behavior Analytics**
+# End-to-End Retail Customer Behavior Analytics
 
-📌 **Project Overview**
+## Project Overview
 
 This project focuses on analyzing retail customer data to extract meaningful insights and support business decision-making. It demonstrates the complete data analytics lifecycle, from raw data to interactive dashboards.
 
-🎯 **Objective**
+## Objective
 
 The main objective of this project is to:
 
-Understand customer purchasing behavior
-Identify top-performing products
-Analyze sales trends over time
-Provide actionable business insights
+* Understand customer purchasing behavior
+* Identify top-performing products
+* Analyze sales trends over time
+* Provide actionable business insights
 
-🛠️ **Tools & Technologies**
+## Tools & Technologies
 
-**Python** (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL (Data querying & analysis)
+* Power BI (Dashboard & visualization)
 
-**SQL** (Data querying & analysis)
+## Project Workflow
 
-**Power BI** (Dashboard & visualization)
+### 1. Data Collection
 
-🔄 **Project Workflow**
+* Imported raw retail dataset
 
-1️⃣ Data Collection
+### 2. Data Cleaning & Preprocessing
 
-Imported raw retail dataset
+* Handled missing values
+* Removed duplicates
+* Formatted columns for consistency
 
-2️⃣ Data Cleaning & Preprocessing
+### 3. Exploratory Data Analysis (EDA)
 
-Handled missing values
-Removed duplicates
-Formatted columns for consistency
+* Analyzed sales distribution
+* Identified trends and patterns
+* Visualized data using Python libraries
 
-3️⃣ Exploratory Data Analysis (EDA)
+### 4. SQL Analysis
 
-Analyzed sales distribution
-Identified trends and patterns
-Visualized data using Python libraries
+* Extracted insights using SQL queries
+* Performed aggregations and filtering
 
-4️⃣ SQL Analysis
+### 5. Data Visualization
 
-Extracted insights using queries
-Performed aggregations and filtering
+* Built interactive dashboards in Power BI
+* Created charts for better understanding
 
-5️⃣ Data Visualization
+## Dashboard Features
 
-Built interactive dashboards in Power BI
-Created charts for better understanding
+* Sales Overview
+* Customer Segmentation
+* Product Performance
+* Time-Based Trends
 
-📊 **Dashboard Features**
+## Key Insights
 
-📌 Sales Overview
-
-📌 Customer Segmentation
-
-📌 Product Performance
-
-📌 Time-Based Trends
-
-📈 **Key Insights**
-
-Top-performing products contribute significantly to revenue
-Certain customer segments generate higher sales
-Sales show seasonal patterns
-Customer purchasing behavior varies across categories
+* Top-performing products contribute significantly to revenue
+* Certain customer segments generate higher sales
+* Sales show seasonal patterns
+* Customer purchasing behavior varies across categories
